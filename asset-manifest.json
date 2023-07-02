@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-double-pendulum/static/css/main.a240c550.css",
+    "main.js": "/react-double-pendulum/static/js/main.3f2a2b99.js",
+    "index.html": "/react-double-pendulum/index.html",
+    "main.a240c550.css.map": "/react-double-pendulum/static/css/main.a240c550.css.map",
+    "main.3f2a2b99.js.map": "/react-double-pendulum/static/js/main.3f2a2b99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.3f2a2b99.js"
+  ]
+}
